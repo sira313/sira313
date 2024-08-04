@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [personal project called TWCARTY](https://github.com/sira313/twcarty)
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, JS**
+- 🌱 I’m currently learning **HTML, CSS, JS**
 
 - 📝 I regularly write articles on [https://apoxi.cam](https://apoxi.cam)
 
